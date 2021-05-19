@@ -1,5 +1,5 @@
 package com.example.miniproject;
-
+//Created a separate class to handle the change of titles and updates them if the user changes the title in their notes
 public class ListTitle {
     private static int position;
     private static String str;
